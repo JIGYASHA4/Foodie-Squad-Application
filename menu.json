@@ -1,0 +1,206 @@
+[{
+  "_id": "6689e6547bf1bbd634b02163",
+  "name": "Bold Espresso Elixir",
+  "image": "/images/items/coffee/espresso.png",
+  "category": "popular",
+  "price": 280,
+  "recipe": "A rich and intense shot of espresso"
+},
+{
+  "_id": "6689e6d47bf1bbd634b02165",
+  "name": "Smooth Americano Dream",
+  "image": "/images/items/coffee/americano.png",
+  "category": "coffee",
+  "price": 295,
+  "recipe": "A velvety blend of espresso and hot water"
+},
+{
+  "_id": "6689e7677bf1bbd634b02167",
+  "name": "Creamy Latte Luxe",
+  "image": "/images/items/coffee/latte.png",
+  "category": "popular",
+  "price": 320,
+  "recipe": "Silky steamed milk poured over a shot of espresso"
+},
+{
+  "_id": "668aaa4e2981df440969bc50",
+  "name": "Artisan Macchiato Marvel",
+  "recipe": "Espresso marked with a dollop of frothy milk",
+  "image": "/images/items/coffee/macchiato.png",
+  "category": "coffee",
+  "price": "270"
+},
+{
+  "_id": "668aaaf82981df440969bc52",
+  "name": "Frothy Cappuccino Bliss",
+  "recipe": "Equal parts espresso, steamed milk, and foam",
+  "category": "coffee",
+  "image": "/images/items/coffee/cappuccino.png",
+  "price": "280"
+},
+{
+  "_id": "668aab4b2981df440969bc54",
+  "name": "Affogato Affair",
+  "recipe": "A scoop of vanilla ice cream drowned in espresso",
+  "category": "coffee",
+  "image": "/images/items/coffee/affogato.jpg",
+  "price": "250"
+},
+{
+  "_id": "668aaba82981df440969bc56",
+  "name": "Chai Tea Charm",
+  "recipe": "Spiced black tea with a touch of sweetness",
+  "category": "popular",
+  "image": "/images/items/tea/chai.png",
+  "price": "220"
+},
+{
+  "_id": "668aabde2981df440969bc58",
+  "name": "Matcha Latte Love",
+  "recipe": "Creamy green tea latte with a vibrant matcha flavor",
+  "category": "tea",
+  "image": "/images/items/tea/matcha.png",
+  "price": "180"
+},
+{
+  "_id": "6693237c15a586b89e72de45",
+  "name": "Avocado Toast Delight",
+  "image": "/images/items/breakfast/avocado.jpg",
+  "category": "breakfast",
+  "price": "420",
+  "recipe": "Creamy avocado on toasted bread with a sprinkle of seasoning"
+},
+{
+  "_id": "66932f5815a586b89e72de47",
+  "name": "Breakfast Burrito Bliss",
+  "image": "/images/items/breakfast/burrito.jpg",
+  "category": "breakfast",
+  "price": "450",
+  "recipe": "A hearty wrap filled with eggs, cheese, and savory fillings"
+},
+{
+  "_id": "66932f5815a586b89e72de48",
+  "name": "Eggcellent Sandwich",
+  "image": "/images/items/breakfast/egg.png",
+  "category": "breakfast",
+  "price": "290",
+  "recipe": "Fluffy scrambled eggs on a toasted bun with your choice of toppings"
+},
+{
+  "_id": "66932f5815a586b89e72de49",
+  "name": "Oatmeal Obsession",
+  "image": "/images/items/breakfast/oatmeal.png",
+  "category": "breakfast",
+  "price": "490",
+  "recipe": "Warm and comforting oatmeal with your favorite toppings"
+},
+{
+  "_id": {
+    "$oid": "66932f5815a586b89e72de4a"
+  },
+  "name": "Pancake Perfection",
+  "image": "/images/items/breakfast/pancakes.png",
+  "category": "breakfast",
+  "price": "340",
+  "recipe": "Fluffy pancakes served with maple syrup and butter"
+},
+{
+  "_id": {
+    "$oid": "66933b2515a586b89e72de4c"
+  },
+  "name": "Greek Yogurt Parfait",
+  "image": "/images/items/breakfast/parfait.png",
+  "category": "breakfast",
+  "price": "410",
+  "recipe": "Layers of creamy yogurt, granola, and fresh fruit for a healthy start"
+},
+{
+  "_id": {
+    "$oid": "66933b2515a586b89e72de4d"
+  },
+  "name": "Quiche Queen",
+  "image": "/images/items/breakfast/quiche.png",
+  "category": "breakfast",
+  "price": "450",
+  "recipe": "Savory pie filled with eggs, cheese, and vegetables or meats"
+},
+{
+  "_id": {
+    "$oid": "66933b2515a586b89e72de4e"
+  },
+  "name": "Acai Berry Blast",
+  "image": "/images/items/smoothie/acaiberry.png",
+  "category": "smoothie",
+  "price": "280",
+  "recipe": "Antioxidant-rich acai berries blended with other fruits"
+},
+{
+  "_id": {
+    "$oid": "66933b2515a586b89e72de4f"
+  },
+  "name": "Berry Burst Bonanza",
+  "image": "/images/items/smoothie/berry.png",
+  "category": "smoothie",
+  "price": "290",
+  "recipe": "A burst of mixed berries for a fruity delight"
+},
+{
+  "_id": {
+    "$oid": "66933b2515a586b89e72de50"
+  },
+  "name": "Chocolate Banana Delight",
+  "image": "/images/items/smoothie/chocolate.png",
+  "category": "smoothie",
+  "price": "320",
+  "recipe": "Decadent chocolate and banana combo for a sweet treat"
+},
+{
+  "_id": {
+    "$oid": "66933b2515a586b89e72de51"
+  },
+  "name": "A Green Detox Delight",
+  "image": "/images/items/smoothie/greendetox.png",
+  "category": "smoothie",
+  "price": "340",
+  "recipe": "A detoxifying blend of green fruits and veggies"
+},
+{
+  "_id": {
+    "$oid": "66933b2515a586b89e72de52"
+  },
+  "name": "Mango Pineapple Paradise",
+  "image": "/images/items/smoothie/mango.png",
+  "category": "smoothie",
+  "price": "280",
+  "recipe": "Tropical flavors of mango and pineapple in a smoothie"
+},
+{
+  "_id": {
+    "$oid": "66933b2515a586b89e72de53"
+  },
+  "name": "Peanut Butter Banana Dream",
+  "image": "/images/items/smoothie/peanut.png",
+  "category": "smoothie",
+  "price": "300",
+  "recipe": "Creamy peanut butter and banana goodness in a glass"
+},
+{
+  "_id": {
+    "$oid": "66933b2515a586b89e72de54"
+  },
+  "name": "Strawberry Banana Bliss",
+  "image": "/images/items/smoothie/strawberrybanana.png",
+  "category": "smoothie",
+  "price": "300",
+  "recipe": "A refreshing blend of sweet strawberries and ripe bananas"
+},
+{
+  "_id": {
+    "$oid": "66933b2515a586b89e72de55"
+  },
+  "name": "Tropical Tango Temptation",
+  "image": "/images/items/smoothie/tropicalparadise.png",
+  "category": "smoothie",
+  "price": "320",
+  "recipe": "A tropical dance of exotic fruits in a smoothie"
+}]
